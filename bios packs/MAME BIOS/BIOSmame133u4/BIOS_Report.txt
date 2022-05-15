@@ -1,0 +1,53 @@
+No.	BIOS				FILE		Manufacturer			Year	ROM CHECK	DETAILS
+-----------------------------------------------------------------------------------------------------------------------------
+01.Acclaim PSX				acpsx		Acclaim				1995	Passed
+02.Aleck64 PIF BIOS			aleck64		Nintendo/Seta			1998	Passed
+03.American Laser Games BIOS		alg_bios	American Laser Games		199?	Passed
+04.Amiga CD32 Bios			cd32		Commodore			1993	Passed
+05.Arcadia System BIOS			ar_bios		Arcadia Sytems			1988	Passed
+06.Atari PSX				atpsx		Atari				1996	Passed
+07.Atari System 1 BIOS			atarisy1	Atari Games			1984	Best available	atarisy1: 136032.103.f7 (1 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+														atarisy1: 136032.103.f7 (1 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+08.Atlus PSX				atluspsx	Sony/Atlus			1996	Passed
+09.Atomiswave Bios			awbios		Sammy				2001	Best available	awbios  : bios.ic23_l (65536 bytes) - NEEDS REDUMP
+10.Baby Phoenix/GV System		konamigv	Konami				1995	Passed
+11.Chihiro Bios				chihiro		Sega				200?	Best available	chihiro : chihiro_bios.bin (2097152 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+12.Crystal System BIOS			crysbios	Brezzasoft			2001	Passed
+13.DECO Cassette Sytem			decocass	Data East Corporation		1981	Passed
+14.Galaxy Games (BIOS v1.90)		galgbios	Creative Electronics & Software	1998	Best available	galgbios: 16v8h-blue.u24 (279 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+														galgbios: 16v8h-yellow.u25 (279 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+														galgbios: 16v8h-magenta.u26 (279 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+														galgbios: 16v8h-green.u27 (279 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+														galgbios: 16v8h-red.u45 (279 bytes) - NOT FOUND - NO GOOD DUMP KNOWN
+15.Hikaru Bios				hikaru		Sega				2000	Passed
+16.Hyper NeoGeo 64 Bios			hng64		SNK				1997	Passed
+17.Konami Viper BIOS			kviper		Konami				1999	Passed
+18.Max-A-Flex				maxaflex	Exidy				1984	Passed
+19.Mega Play BIOS			megaplay	Sega				1993	Passed
+20.Mega-Tech BIOS			megatech	Sega				1989	Passed
+21.MPU4 Video Firmware			bctvidbs	Barcrest			199?	Passed
+22.Multi Amenity Cassette System 2 BIOS	mac2bios	I'Max				1995	Best available	mac2bios: macs2os_l.bin (524288 bytes) - NO GOOD DUMP KNOWN
+														mac2bios: macs2os_h.bin (524288 bytes) - NO GOOD DUMP KNOWN
+23.Multi Amenity Cassette System BIOS	macsbios	I'Max				1995	Passed
+24.Naomi 2 Bios				naomi2		Sega				2001	Passed
+25.Naomi Bios				naomi		Sega				1998	Passed
+26.Naomi Ferrari F355 Challenge Bios	f355bios	Sega				1999	Passed
+27.Naomi GD-ROM Bios			naomigd		Sega				2001	Passed
+28.Naomi House od the Dead 2 Bios	hod2bios	Sega				1998	Passed
+29.Neo-Geo				neogeo		SNK				1990	Passed
+30.Nintendo Super System BIOS		nss		Nintendo			199?	Passed
+31.PGM (Polygame Master) System BIOS	pgm		IGS				1997	Passed
+32.PlayChoice-10 BIOS			playch10	Nintendo of America		1986	Passed
+33.PS Arcade 95				psarc95		Sony/Eighting/Raizing		1997	Passed
+34.ST-V Bios				stvbios		Sega				1996	Passed
+35.Super Kaneko Nova System BIOS	skns		Kaneko				1996	Passed
+36.System 573 BIOS			sys573		Konami				1998	Passed
+37.System GX				konamigx	Konami				1994	Passed
+38.Taito FX1				taitofx1	Sony/Taito			1995	Passed
+39.Taito GNET				taitogn		Sony/Taito			1997	Passed
+40.TPS					tps		Sony/Tecmo			1997	Passed
+41.Triforce Bios			triforce	Sega				2002	Passed
+42.Twinkle System			gq863		Konami				1999	Passed
+43.Video System PSX			vspsx		Video System			1996	Passed
+44.ZN1					cpzn1		Sony/Capcom			1995	Passed
+45.ZN2					cpzn2		Sony/Capcom			1997	Passed
